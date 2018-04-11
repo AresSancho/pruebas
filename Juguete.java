@@ -1,6 +1,8 @@
 package modelo;
 
 public class Juguete {
+	
+	private double peso;
 	private String marca;
 	private String nombre;
 	private String descripcion;
